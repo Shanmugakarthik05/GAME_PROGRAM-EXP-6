@@ -53,7 +53,7 @@ To create an AI character in Unreal Engine that roams randomly within a NavMesh 
   
 
 ## Output
-SANJAY
+
 ![Screenshot 2025-05-15 133109](https://github.com/user-attachments/assets/8cc1b432-1809-4fb2-b82c-842d16b2f651)
 
 
@@ -61,8 +61,7 @@ SANJAY
 
 
 
-**![image](https://github.com/user-attachments/assets/0017652a-93f4-4168-b375-6389bb48b189)
-**
+![image](https://github.com/user-attachments/assets/0017652a-93f4-4168-b375-6389bb48b189)
 
 ## Result
 The AI character roams randomly within a defined area. When the player enters its sight range, the AI stops roaming and begins to chase the player until the player is out of sight, after which it resumes roaming.
